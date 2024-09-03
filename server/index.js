@@ -733,7 +733,7 @@ app.post('/add-user', async (req, res) => {
       text: `Hello ${newUser.fullName},\n\nYour account has been successfully created.\n\nHere are your account details:\n\nFull Name: ${newUser.fullName}\nEmail: ${newUser.email}\nPassword: ${password}\nRole: ${newUser.role}\n${newUser.role !== 'Admin'
           ? `Department: ${newUser.departments.map(dept => dept.name).join(', ')}\n\nLabs and Sections:\n${labsAndSections}\n`
           : ''
-        }To log in to the DSR system, please use the above credentials and link:\n\nLogin Link: https://dsr-final.vercel.app\n\nFor any queries, please contact the admin at systems.dsr@gmail.com.\n\nBest regards,\nVidyalankar Institute Of Technology.\n\nThis is an auto-generated email. Please do not reply to this email.`, // Plain text body
+        }To log in to the DSR system, please use the above credentials and link:\n\nLogin Link: https://dsr-three.vercel.app\n\nFor any queries, please contact the admin at systems.dsr@gmail.com.\n\nBest regards,\nVidyalankar Institute Of Technology.\n\nThis is an auto-generated email. Please do not reply to this email.`, // Plain text body
     };
 
 
@@ -810,7 +810,7 @@ app.put('/edit-user/:id', async (req, res) => {
       text: `Hello ${updatedUser.fullName},\n\nYour account has been successfully updated.\n\nHere are your updated details:\n\nFull Name: ${updatedUser.fullName}\nEmail: ${updatedUser.email}\nPassword: ${password}\nRole: ${updatedUser.role}\n${updatedUser.role !== 'Admin'
           ? `Department: ${updatedUser.departments.map(dept => dept.name).join(', ')}\n\nLabs and Sections:\n${labsAndSections}\n`
           : ''
-        }To log in to the DSR system, please use the above credentials and link:\n\nLogin Link: https://dsr-final.vercel.app\n\nFor any queries, please contact the admin at systems.dsr@gmail.com.\n\nBest regards,\nVidyalankar Institute Of Technology.\n\nThis is an auto-generated email. Please do not reply to this email.`, // Plain text body
+        }To log in to the DSR system, please use the above credentials and link:\n\nLogin Link: https://dsr-three.vercel.app\n\nFor any queries, please contact the admin at systems.dsr@gmail.com.\n\nBest regards,\nVidyalankar Institute Of Technology.\n\nThis is an auto-generated email. Please do not reply to this email.`, // Plain text body
     };
 
 

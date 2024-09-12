@@ -6,6 +6,8 @@ A MERN Stack Dead Stock Registry (DSR) system, automating the transition from tr
 
 Dive into the live application here: [DSR ](https://dsr-three.vercel.app) 🌐
 
+Video demonstration here: [Click](https://www.youtube.com/watch?v=hI9SUc-b4-Y) 📽️
+
 Owners and Developers: [Sameer Ahmad Maroof](https://github.com/SoyaChunkz), [Rutam Kulkarni](https://github.com/rutamk), [Khushi Gala](https://github.com/khushi-gala)
 
 ## 📝 Problem Statement

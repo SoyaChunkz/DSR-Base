@@ -8,7 +8,7 @@ Dive into the live application here: [DSR ](https://dsr-final.vercel.app) 🌐
 
 Video demonstration here: [Click](https://www.youtube.com/watch?v=hI9SUc-b4-Y) 📽️
 
-Owners and Developers: [Rutam Kulkarni](https://github.com/rutamk), [Sameer Ahmad Maroof](https://github.com/SoyaChunkz), [Khushi Gala](https://github.com/khushi-gala)
+Owners and Developers: [Sameer Ahmad Maroof](https://github.com/SoyaChunkz), [Rutam Kulkarni](https://github.com/rutamk), [Khushi Gala](https://github.com/khushi-gala)
 
 ## 📝 Problem Statement
 

@@ -4,7 +4,7 @@ Welcome to the Dead Stock Register (DSR) project!
 
 A MERN Stack Dead Stock Registry (DSR) system, automating the transition from traditional manual registers to a modern web portal, effectively eliminating paperwork by 100%.
 
-Dive into the live application here: [DSR ](https://dsr-three.vercel.app) 🌐
+Dive into the live application here: [DSR ](https://dsr-final.vercel.app) 🌐
 
 Video demonstration here: [Click](https://www.youtube.com/watch?v=hI9SUc-b4-Y) 📽️
 

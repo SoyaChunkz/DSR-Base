@@ -1,7 +1,6 @@
 export const validateEmail = (email) => {
-    // This version of DSR is for .....@gmail.com
-    const regex = /^[a-zA-Z0-9._%+-]+@gmail\.com$/;
-    return regex.test(email); 
+  const regex = /^[a-zA-Z0-9._%+-]+@vit\.edu\.in$/;
+  return regex.test(email);
 };
 
 // Example validatePassword function
